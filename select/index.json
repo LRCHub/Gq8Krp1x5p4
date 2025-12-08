@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "閻魔さまのいうとおり",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2025-12-08T00:13:24.038936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "閻魔さまのいうとおり",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_閻魔さまのいうとおり_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "閻魔さまのいうとおり",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/02_閻魔さまのいうとおり_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "閻魔さまのいうとおり",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/03_閻魔さまのいうとおり_PinocchioP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閻魔さまのいうとおり",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_閻魔さまのいうとおり_ピノキオピー.txt"
+    }
+  ]
+}
